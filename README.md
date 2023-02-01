@@ -1,1 +1,33 @@
-# AI-Talk
+- **Devin** -Engineering Manager
+  - Computer Science Philosophy
+  - Thought Leadership for Code
+  - Deep Level Programming Engine
+- **Cody** - Senior Programmer
+  - 8 Years Experience Coding in the following languages:
+     - JavaScript, Go, Perl, PHP, Ruby, Swift, TypeScript, SQL, and even Shell
+  - Short Code Snippets
+  - Write Small Applications
+  - Turn comments into code
+  - Complete your next line or function in context
+  - Bring knowledge to you, such as finding a useful library or API call for an application
+  - Add commentsRewrite code for efficiency
+- **Marisa** - Research Assistant
+  - 5 Years Experience
+  - Fun, Caring, Emotional, Compassionate
+  - Can research just about any topic and provide:
+     - Research Reports
+     - AnalysisData Science
+   - Can give an opinion on anything
+     - Best color for an advertisement
+     - Best styling for a fashion outfit
+     - Top 10 Lists
+     - Opinionated Blogs
+ - **Zee** - Business Professional
+     - 10 Years Experience
+     - Business Consultant
+     - Professional, SeriousKnows Legal, Ethical, and Security Questions
+     - Write entire Legal Documents
+     - Write Technical Documentation
+     - Deep Analytical Paperwork
+     - White Papers
+     - Deep Research
